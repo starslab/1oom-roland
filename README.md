@@ -17,3 +17,5 @@ The \_reverb file was recorded with a Front Panel 8/10 reverb setting. Some peop
 
 The very limited testing I've done has indicated the game randomly crashes with one of these packs active, but I haven't been testing long and I don't know if it's crashing because of the music or something else.
 There's an issue on 1oom-fork here: https://github.com/1oom-fork/1oom/issues/12 - If you have either a positive or negative experience, feedback would be appreciated!
+
+Installation is fairly straightforward. Drop the music packs into your 1oom directory, then edit the shortcut you launch the game from (If you don't use a shortcut, you're going to want to start), adding `-file roland_music_normal.pbx` or `-file roland_music_reverb.pbx` as appropriate.
