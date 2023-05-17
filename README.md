@@ -1,7 +1,7 @@
 # 1oom-roland
 Roland MT-32 music packs for 1oom!
 
-These are 1oom compatible PBX files that replace the mostly-awful MIDI music with the original less-awful MT-32 musics as rendered by MUNT in Super-CM-32L mode.
+These are 1oom compatible PBX files that replace the mostly-awful MIDI music with the original less-awful MT-32 musics as rendered by MUNT in Super-CM-32L mode. There are currently some limitations that limit this experience, see details below. I'm hoping 1oom will be patched in future to enable these packs to work fully.
 
 Learn more about 1oom, an open-source Master of Orion engine re-implementation, here:
 * https://gitlab.com/Tapani_/1oom
